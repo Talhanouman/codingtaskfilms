@@ -1,0 +1,1 @@
+export const BaseUrl = "https://moviesdatabase.p.rapidapi.com/titles/search/title";
